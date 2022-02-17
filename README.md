@@ -1,7 +1,7 @@
-# Random user generator
+# Random User Generator
 
-- A simple web project that consumes this [Random User API](https://randomuser.me/), and displays the data dynamically on the browser.
--  It was built using [vue.js v3.x](https://v3.vuejs.org), css and html.
+A simple web project that consumes the [Random User API](https://randomuser.me/), and displays the data dynamically on the browser.
+🛠 It was built with [Vue.js v3.x](https://v3.vuejs.org), CSS and HTML.
 
 ## Version
 
